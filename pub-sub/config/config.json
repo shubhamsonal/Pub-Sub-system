@@ -1,0 +1,22 @@
+{
+    "producerAPI":[
+        {
+            "source":{
+                "listenAddrAPI": "0.0.0.0:9000",
+                "kafkaBrokerURL": "localhost:19092",
+                "kafkaTopic": "Email"
+            }
+        }
+    ],
+    "consumer":[
+        {
+            "source":{
+                "broker": "localhost:19092",
+                "serverRunTime": 120,
+                "serverDownTime": 30,
+                "waitTime": 10,
+                "numberOfRetries": 5
+            }
+        }
+    ]
+}

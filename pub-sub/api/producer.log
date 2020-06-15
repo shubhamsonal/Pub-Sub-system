@@ -1,0 +1,108 @@
+{"level":"info","msg":"Starting API......","time":"2020-05-24T23:31:30Z"}
+{"level":"info","msg":"Created Producer rdkafka#producer-1","time":"2020-05-24T23:31:30Z"}
+{"level":"info","msg":"starting server at 0.0.0.0:9000","time":"2020-05-24T23:31:30Z"}
+{"level":"debug","msg":"Path: /api/v1/data, handler: main.postDataToKafka, method: POST, registered routes.","time":"2020-05-24T23:31:30Z"}
+{"level":"info","msg":"Delivered message to topic Phone [0] at offset 11","time":"2020-05-24T23:31:42Z"}
+{"level":"info","msg":"got an interrupt, exiting...","time":"2020-05-24T23:31:52Z"}
+{"level":"info","msg":"Starting API......","time":"2020-05-24T23:50:57Z"}
+{"level":"info","msg":"Created Producer rdkafka#producer-1","time":"2020-05-24T23:50:57Z"}
+{"level":"info","msg":"starting server at 0.0.0.0:9000","time":"2020-05-24T23:50:57Z"}
+{"level":"debug","msg":"Path: /api/v1/data, handler: main.postDataToKafka, method: POST, registered routes.","time":"2020-05-24T23:50:57Z"}
+{"level":"info","msg":"Delivered message to topic Phone [0] at offset 12","time":"2020-05-24T23:51:56Z"}
+{"level":"info","msg":"Delivered message to topic Email [2] at offset 15","time":"2020-05-24T23:52:27Z"}
+{"level":"info","msg":"Delivered message to topic Email [3] at offset 22","time":"2020-05-25T00:08:03Z"}
+{"level":"info","msg":"Delivered message to topic Phone [2] at offset 10","time":"2020-05-25T00:08:18Z"}
+{"level":"info","msg":"Delivered message to topic Email [1] at offset 20","time":"2020-05-25T00:11:14Z"}
+{"level":"info","msg":"Delivered message to topic Email [1] at offset 21","time":"2020-05-25T00:33:47Z"}
+{"level":"info","msg":"Delivered message to topic Email [3] at offset 23","time":"2020-05-25T00:35:33Z"}
+{"level":"info","msg":"Delivered message to topic Email [1] at offset 22","time":"2020-05-25T00:35:50Z"}
+{"level":"info","msg":"Delivered message to topic Email [2] at offset 16","time":"2020-05-25T00:36:48Z"}
+{"level":"info","msg":"Delivered message to topic Phone [2] at offset 11","time":"2020-05-25T00:39:01Z"}
+{"level":"info","msg":"Delivered message to topic Phone [1] at offset 11","time":"2020-05-25T00:39:06Z"}
+{"level":"info","msg":"Delivered message to topic Email [1] at offset 23","time":"2020-05-25T00:39:45Z"}
+{"level":"info","msg":"Starting API......","time":"2020-05-25T07:52:28Z"}
+{"level":"info","msg":"Created Producer rdkafka#producer-1","time":"2020-05-25T07:52:28Z"}
+{"level":"info","msg":"starting server at 0.0.0.0:9000","time":"2020-05-25T07:52:28Z"}
+{"level":"debug","msg":"Path: /api/v1/data, handler: main.postDataToKafka, method: POST, registered routes.","time":"2020-05-25T07:52:28Z"}
+{"level":"info","msg":"Delivered message to topic Email [1] at offset 24","time":"2020-05-25T07:53:11Z"}
+{"level":"info","msg":"Delivered message to topic Phone [2] at offset 12","time":"2020-05-25T07:53:20Z"}
+{"level":"info","msg":"Delivered message to topic Email [3] at offset 24","time":"2020-05-25T07:53:30Z"}
+{"level":"info","msg":"Delivered message to topic Phone [0] at offset 13","time":"2020-05-25T07:53:38Z"}
+{"level":"info","msg":"got an interrupt, exiting...","time":"2020-05-25T07:54:25Z"}
+{"level":"info","msg":"Starting API......","time":"2020-05-25T09:10:04+05:30"}
+{"level":"info","msg":"Created Producer rdkafka#producer-1","time":"2020-05-25T09:10:04+05:30"}
+{"level":"info","msg":"starting server at 0.0.0.0:9000","time":"2020-05-25T09:10:04+05:30"}
+{"level":"debug","msg":"Path: /api/v1/data, handler: main.postDataToKafka, method: POST, registered routes.","time":"2020-05-25T09:10:04+05:30"}
+{"level":"info","msg":"got an interrupt, exiting...","time":"2020-05-25T09:10:33+05:30"}
+{"level":"info","msg":"Starting API......","time":"2020-05-25T11:49:21Z"}
+{"level":"info","msg":"Created Producer rdkafka#producer-1","time":"2020-05-25T11:49:21Z"}
+{"level":"info","msg":"starting server at 0.0.0.0:9000","time":"2020-05-25T11:49:21Z"}
+{"level":"debug","msg":"Path: /api/v1/data, handler: main.postDataToKafka, method: POST, registered routes.","time":"2020-05-25T11:49:21Z"}
+{"level":"info","msg":"Delivered message to topic Phone [1] at offset 12","time":"2020-05-25T11:50:28Z"}
+{"level":"info","msg":"Delivered message to topic Email [2] at offset 17","time":"2020-05-25T11:50:46Z"}
+{"level":"info","msg":"Delivered message to topic Phone [1] at offset 13","time":"2020-05-25T11:51:15Z"}
+{"level":"info","msg":"Delivered message to topic Email [2] at offset 18","time":"2020-05-25T11:51:38Z"}
+{"level":"info","msg":"Delivered message to topic Email [1] at offset 25","time":"2020-05-25T11:56:22Z"}
+{"level":"info","msg":"Delivered message to topic Phone [3] at offset 11","time":"2020-05-25T11:56:28Z"}
+{"level":"info","msg":"Delivered message to topic Email [3] at offset 25","time":"2020-05-25T11:56:44Z"}
+{"level":"info","msg":"Delivered message to topic Phone [0] at offset 14","time":"2020-05-25T11:56:53Z"}
+{"level":"info","msg":"Delivered message to topic Email [1] at offset 26","time":"2020-05-25T11:57:02Z"}
+{"level":"info","msg":"Delivered message to topic Phone [3] at offset 12","time":"2020-05-25T11:57:12Z"}
+{"level":"info","msg":"Delivered message to topic Phone [1] at offset 14","time":"2020-05-25T11:58:04Z"}
+{"level":"info","msg":"Delivered message to topic Phone [2] at offset 13","time":"2020-05-25T11:58:09Z"}
+{"level":"info","msg":"Delivered message to topic Phone [1] at offset 15","time":"2020-05-25T11:58:14Z"}
+{"level":"info","msg":"Delivered message to topic Phone [0] at offset 15","time":"2020-05-25T11:58:18Z"}
+{"level":"info","msg":"Delivered message to topic Phone [1] at offset 16","time":"2020-05-25T11:58:26Z"}
+{"level":"info","msg":"Delivered message to topic Email [0] at offset 14","time":"2020-05-25T11:59:08Z"}
+{"level":"info","msg":"Delivered message to topic Phone [2] at offset 14","time":"2020-05-25T11:59:14Z"}
+{"level":"info","msg":"Delivered message to topic Email [2] at offset 19","time":"2020-05-25T11:59:22Z"}
+{"level":"info","msg":"Delivered message to topic Phone [2] at offset 15","time":"2020-05-25T11:59:30Z"}
+{"level":"info","msg":"Delivered message to topic Phone [3] at offset 13","time":"2020-05-25T11:59:34Z"}
+{"level":"info","msg":"Delivered message to topic Email [2] at offset 20","time":"2020-05-25T11:59:39Z"}
+{"level":"info","msg":"Delivered message to topic Email [2] at offset 21","time":"2020-05-25T12:00:30Z"}
+{"level":"info","msg":"Delivered message to topic Phone [1] at offset 17","time":"2020-05-25T12:00:46Z"}
+{"level":"info","msg":"Delivered message to topic Email [3] at offset 26","time":"2020-05-25T12:00:56Z"}
+{"level":"info","msg":"Delivered message to topic Phone [3] at offset 14","time":"2020-05-25T12:01:04Z"}
+{"level":"info","msg":"Delivered message to topic Email [2] at offset 22","time":"2020-05-25T12:01:15Z"}
+{"level":"info","msg":"Delivered message to topic Phone [1] at offset 18","time":"2020-05-25T12:01:24Z"}
+{"level":"info","msg":"Delivered message to topic Email [3] at offset 27","time":"2020-05-25T12:10:50Z"}
+{"level":"info","msg":"Delivered message to topic Email [2] at offset 23","time":"2020-05-25T12:10:57Z"}
+{"level":"info","msg":"Delivered message to topic Phone [0] at offset 16","time":"2020-05-25T12:11:06Z"}
+{"level":"info","msg":"Delivered message to topic Phone [1] at offset 19","time":"2020-05-25T12:11:10Z"}
+{"level":"info","msg":"got an interrupt, exiting...","time":"2020-05-25T12:12:00Z"}
+{"level":"info","msg":"Starting API......","time":"2020-05-25T15:54:52Z"}
+{"level":"info","msg":"Created Producer rdkafka#producer-1","time":"2020-05-25T15:54:52Z"}
+{"level":"info","msg":"starting server at 0.0.0.0:9000","time":"2020-05-25T15:54:52Z"}
+{"level":"debug","msg":"Path: /api/v1/data, handler: main.postDataToKafka, method: POST, registered routes.","time":"2020-05-25T15:54:52Z"}
+{"level":"error","msg":"error while running api, exiting...","time":"2020-05-25T15:54:52Z"}
+{"level":"info","msg":"Starting API......","time":"2020-05-25T15:55:18Z"}
+{"level":"info","msg":"Created Producer rdkafka#producer-1","time":"2020-05-25T15:55:18Z"}
+{"level":"info","msg":"starting server at 0.0.0.0:9000","time":"2020-05-25T15:55:18Z"}
+{"level":"debug","msg":"Path: /api/v1/data, handler: main.postDataToKafka, method: POST, registered routes.","time":"2020-05-25T15:55:18Z"}
+{"level":"error","msg":"error while running api, exiting...","time":"2020-05-25T15:55:18Z"}
+{"level":"info","msg":"Starting API......","time":"2020-05-25T15:56:03Z"}
+{"level":"info","msg":"Created Producer rdkafka#producer-1","time":"2020-05-25T15:56:03Z"}
+{"level":"info","msg":"starting server at 0.0.0.0:9000","time":"2020-05-25T15:56:03Z"}
+{"level":"debug","msg":"Path: /api/v1/data, handler: main.postDataToKafka, method: POST, registered routes.","time":"2020-05-25T15:56:03Z"}
+{"level":"info","msg":"got an interrupt, exiting...","time":"2020-05-25T16:07:36Z"}
+{"level":"info","msg":"Starting API......","time":"2020-05-25T16:58:03Z"}
+{"level":"info","msg":"Created Producer rdkafka#producer-1","time":"2020-05-25T16:58:03Z"}
+{"level":"info","msg":"starting server at 0.0.0.0:9000","time":"2020-05-25T16:58:03Z"}
+{"level":"debug","msg":"Path: /api/v1/data, handler: main.postDataToKafka, method: POST, registered routes.","time":"2020-05-25T16:58:03Z"}
+{"level":"info","msg":"Delivered message to topic Phone [0] at offset 17","time":"2020-05-25T16:58:31Z"}
+{"level":"info","msg":"Delivered message to topic Phone [2] at offset 16","time":"2020-05-25T16:58:34Z"}
+{"level":"info","msg":"Delivered message to topic Email [2] at offset 24","time":"2020-05-25T16:58:43Z"}
+{"level":"info","msg":"Delivered message to topic Phone [0] at offset 18","time":"2020-05-25T16:58:53Z"}
+{"level":"info","msg":"Delivered message to topic Email [2] at offset 25","time":"2020-05-25T16:59:01Z"}
+{"level":"info","msg":"got an interrupt, exiting...","time":"2020-05-25T18:36:20Z"}
+{"level":"info","msg":"Starting API......","time":"2020-05-26T12:18:59Z"}
+{"level":"info","msg":"Created Producer rdkafka#producer-1","time":"2020-05-26T12:18:59Z"}
+{"level":"info","msg":"starting server at 0.0.0.0:9000","time":"2020-05-26T12:18:59Z"}
+{"level":"debug","msg":"Path: /api/v1/data, handler: main.postDataToKafka, method: POST, registered routes.","time":"2020-05-26T12:18:59Z"}
+{"level":"info","msg":"Delivered message to topic Email [0] at offset 15","time":"2020-05-26T12:20:01Z"}
+{"level":"info","msg":"Delivered message to topic Phone [0] at offset 19","time":"2020-05-26T12:20:24Z"}
+{"level":"info","msg":"Delivered message to topic Email [0] at offset 16","time":"2020-05-26T12:24:46Z"}
+{"level":"info","msg":"Delivered message to topic Phone [0] at offset 20","time":"2020-05-26T12:24:56Z"}
+{"level":"info","msg":"Delivered message to topic Email [1] at offset 27","time":"2020-05-26T12:27:16Z"}
+{"level":"info","msg":"Delivered message to topic Phone [2] at offset 17","time":"2020-05-26T12:27:24Z"}
+{"level":"info","msg":"got an interrupt, exiting...","time":"2020-05-26T12:27:34Z"}
